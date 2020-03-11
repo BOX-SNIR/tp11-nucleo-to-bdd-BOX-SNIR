@@ -29,6 +29,8 @@ int main()
 	  printf ("Error  no is : %d\n", errno);
 	  printf("Error description is : %s\n",strerror(errno));
 	  return(-1);
+edsd
+
 	}
     bzero(&newtio, sizeof(newtio)); /* clear struct for new port settings */
  /* 
